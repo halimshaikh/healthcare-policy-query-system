@@ -1,0 +1,22 @@
+state,district,population,urban_percent,infant_mortality_per_1000,maternal_mortality_ratio
+Maharashtra,Mumbai,6141087,88,15.3,89
+Maharashtra,Pune,3968235,62,37.2,165
+Maharashtra,Nagpur,11392796,59,14.9,150
+Maharashtra,Nashik,2291826,94,14.4,189
+Delhi,New Delhi,6223615,96,34.5,179
+West Bengal,Kolkata,7629594,60,33.3,124
+West Bengal,Howrah,4823877,80,17.5,127
+Rajasthan,Jaipur,17579735,67,20.8,136
+Rajasthan,Jodhpur,12694705,59,10.5,127
+Karnataka,Bengaluru Urban,16054327,56,23.1,106
+Karnataka,Mysuru,15222100,95,18.5,179
+Tamil Nadu,Chennai,10905520,69,11.4,179
+Tamil Nadu,Madurai,19413428,96,7.7,111
+Gujarat,Ahmedabad,14435531,55,19.9,55
+Gujarat,Surat,5207357,59,33.7,143
+Kerala,Thiruvananthapuram,2582029,74,7.4,190
+Kerala,Kochi,22010063,82,16.1,197
+Telangana,Hyderabad,13867265,64,12.3,191
+Telangana,Warangal,17949886,91,26.3,24
+Uttar Pradesh,Lucknow,10322021,72,11.9,195
+Uttar Pradesh,Kanpur,18533024,90,29.8,106

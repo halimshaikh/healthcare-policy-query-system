@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-experimental
+python-dotenv
+pandas
+requests
+ollama
+torch
+transformers

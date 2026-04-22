@@ -1,0 +1,421 @@
+hospital_id,name,state,district,type,level,latitude,longitude,total_beds,icu_beds,ventilators,oxygen_points
+1,Mumbai Hospital 1,Maharashtra,Mumbai,Private,Specialty,10.199448147996064,79.34798227145387,960,65,54,363
+2,Mumbai Hospital 2,Maharashtra,Mumbai,Private,District Hospital,12.000149278556213,74.93447215765494,230,11,9,103
+3,Mumbai Hospital 3,Maharashtra,Mumbai,Government,Specialty,16.79694137773562,72.74665061141785,559,62,37,115
+4,Mumbai Hospital 4,Maharashtra,Mumbai,Private,Specialty,29.63107948774934,79.46820629196768,1075,78,48,414
+5,Mumbai Hospital 5,Maharashtra,Mumbai,Private,District Hospital,25.784741658562144,76.87382030677394,746,50,30,361
+6,Mumbai Hospital 6,Maharashtra,Mumbai,Private,Specialty,11.814022377170986,78.25696972117186,1463,108,86,560
+7,Mumbai Hospital 7,Maharashtra,Mumbai,Private,Clinic,12.066798021561596,87.51335404423294,1685,195,135,599
+8,Mumbai Hospital 8,Maharashtra,Mumbai,Private,Specialty,9.94683504514223,75.13572579870632,1679,241,209,636
+9,Mumbai Hospital 9,Maharashtra,Mumbai,Government,Medical College,20.90852564460466,87.4440849162262,1116,163,139,473
+10,Mumbai Hospital 10,Maharashtra,Mumbai,Government,Medical College,29.711512605211382,84.35591630874652,2335,243,156,1028
+11,Mumbai Hospital 11,Maharashtra,Mumbai,Private,Specialty,25.383861891686525,81.69535959649619,2127,168,101,552
+12,Mumbai Hospital 12,Maharashtra,Mumbai,Private,District Hospital,10.099022562789049,77.93309203517227,2378,273,238,1082
+13,Mumbai Hospital 13,Maharashtra,Mumbai,Government,Medical College,16.424391244583376,87.54739352622566,1851,215,167,522
+14,Mumbai Hospital 14,Maharashtra,Mumbai,Government,Specialty,17.405902403888092,72.40670602790553,1128,119,98,392
+15,Mumbai Hospital 15,Maharashtra,Mumbai,Government,Clinic,23.301353901374803,74.22930327049401,1584,111,96,542
+16,Mumbai Hospital 16,Maharashtra,Mumbai,Private,Specialty,14.374531964102896,74.57954059606408,2378,216,178,638
+17,Mumbai Hospital 17,Maharashtra,Mumbai,Private,Clinic,27.636297966779512,80.62947587065041,1697,192,165,748
+18,Mumbai Hospital 18,Maharashtra,Mumbai,Government,Medical College,22.24918265190997,72.00832603192505,1629,101,71,768
+19,Mumbai Hospital 19,Maharashtra,Mumbai,Government,District Hospital,12.886371830356065,73.91784587733892,1072,145,87,378
+20,Mumbai Hospital 20,Maharashtra,Mumbai,Private,Medical College,16.8843957632769,73.0382759537437,783,58,37,207
+21,Pune Hospital 1,Maharashtra,Pune,Government,Medical College,29.950290671076722,76.26849622840456,663,49,39,274
+22,Pune Hospital 2,Maharashtra,Pune,Government,Medical College,13.270361594673393,74.31831795345957,101,10,6,28
+23,Pune Hospital 3,Maharashtra,Pune,Government,Specialty,16.132398033350896,75.87455901243881,1807,171,130,682
+24,Pune Hospital 4,Maharashtra,Pune,Government,Specialty,9.986374941196983,85.3648399294278,393,34,26,153
+25,Pune Hospital 5,Maharashtra,Pune,Private,Specialty,12.845303046442062,83.37839251900829,1247,125,101,570
+26,Pune Hospital 6,Maharashtra,Pune,Government,Clinic,16.508177618611825,86.98767981978776,1634,118,93,412
+27,Pune Hospital 7,Maharashtra,Pune,Government,District Hospital,23.307256785591807,75.65680034875679,740,87,71,194
+28,Pune Hospital 8,Maharashtra,Pune,Private,Medical College,10.048260891729782,86.35545212725323,2291,301,230,822
+29,Pune Hospital 9,Maharashtra,Pune,Private,Clinic,27.736425718956696,86.19338278824188,1283,145,101,391
+30,Pune Hospital 10,Maharashtra,Pune,Private,Clinic,21.34143931251098,72.14715282586607,1796,205,128,446
+31,Pune Hospital 11,Maharashtra,Pune,Private,District Hospital,23.22169434923925,82.43138015204161,1596,185,111,396
+32,Pune Hospital 12,Maharashtra,Pune,Private,Clinic,16.06231326082292,83.906728368905,1804,121,73,628
+33,Pune Hospital 13,Maharashtra,Pune,Government,District Hospital,13.83445208899796,75.90383429406533,1318,152,117,300
+34,Pune Hospital 14,Maharashtra,Pune,Government,District Hospital,15.701724969282864,82.32165379248903,2185,323,240,1030
+35,Pune Hospital 15,Maharashtra,Pune,Private,Specialty,24.908188314738798,72.69766034807094,1059,144,96,370
+36,Pune Hospital 16,Maharashtra,Pune,Private,Medical College,28.96758063452697,77.29200487472822,1343,130,88,624
+37,Pune Hospital 17,Maharashtra,Pune,Government,Medical College,16.472150029242357,85.6181867442697,401,58,51,182
+38,Pune Hospital 18,Maharashtra,Pune,Government,Clinic,9.549154878689965,75.34269948184576,227,19,13,102
+39,Pune Hospital 19,Maharashtra,Pune,Government,Clinic,23.334346301895895,83.23974534379374,1786,114,86,827
+40,Pune Hospital 20,Maharashtra,Pune,Private,Medical College,9.795071968805289,72.0829578043838,1600,127,92,442
+41,Nagpur Hospital 1,Maharashtra,Nagpur,Private,District Hospital,27.58011751998646,77.40792250962457,135,17,13,55
+42,Nagpur Hospital 2,Maharashtra,Nagpur,Government,Medical College,11.410915568010372,87.7094542129685,1215,131,95,487
+43,Nagpur Hospital 3,Maharashtra,Nagpur,Private,Specialty,15.924194111047782,74.03296820243015,2297,250,152,485
+44,Nagpur Hospital 4,Maharashtra,Nagpur,Private,District Hospital,9.13699786570937,80.50167410509037,2411,306,203,932
+45,Nagpur Hospital 5,Maharashtra,Nagpur,Private,Clinic,23.721092291958946,72.65708026828601,146,17,10,35
+46,Nagpur Hospital 6,Maharashtra,Nagpur,Government,District Hospital,29.17826512291435,85.37568192819529,219,16,11,48
+47,Nagpur Hospital 7,Maharashtra,Nagpur,Private,Clinic,20.08298662353465,83.433534763201,2031,184,119,501
+48,Nagpur Hospital 8,Maharashtra,Nagpur,Private,Specialty,17.584803770913602,83.68062906498909,587,84,66,208
+49,Nagpur Hospital 9,Maharashtra,Nagpur,Private,Clinic,9.01205812447856,72.65166083710352,253,21,17,51
+50,Nagpur Hospital 10,Maharashtra,Nagpur,Private,Clinic,25.75208549511715,77.5408691374304,1873,277,180,384
+51,Nagpur Hospital 11,Maharashtra,Nagpur,Private,District Hospital,13.739659713517707,72.24487264464615,1857,213,130,900
+52,Nagpur Hospital 12,Maharashtra,Nagpur,Private,Clinic,22.133224120538944,72.42418096866595,1731,234,186,430
+53,Nagpur Hospital 13,Maharashtra,Nagpur,Government,Clinic,10.827007771146024,84.97926682777604,995,113,94,401
+54,Nagpur Hospital 14,Maharashtra,Nagpur,Government,Clinic,14.027144801064942,75.43342591533398,1736,195,164,686
+55,Nagpur Hospital 15,Maharashtra,Nagpur,Private,District Hospital,8.51198258618817,85.03149572142297,853,100,62,252
+56,Nagpur Hospital 16,Maharashtra,Nagpur,Government,Medical College,8.862099186864217,78.68713650744925,716,71,57,218
+57,Nagpur Hospital 17,Maharashtra,Nagpur,Government,Specialty,17.07758889205138,77.95228937268453,775,52,42,342
+58,Nagpur Hospital 18,Maharashtra,Nagpur,Government,Specialty,24.519163491412943,84.07268598535492,2243,188,165,1026
+59,Nagpur Hospital 19,Maharashtra,Nagpur,Government,District Hospital,14.54797383920484,73.59975819458981,972,85,64,339
+60,Nagpur Hospital 20,Maharashtra,Nagpur,Government,Clinic,28.90136327511771,87.2097143510009,1735,88,76,394
+61,Nashik Hospital 1,Maharashtra,Nashik,Private,Medical College,20.181467151607617,75.40364632038767,950,94,58,216
+62,Nashik Hospital 2,Maharashtra,Nashik,Government,District Hospital,20.08963541112218,79.06448802197403,1267,163,102,441
+63,Nashik Hospital 3,Maharashtra,Nashik,Government,District Hospital,26.413205233222225,85.86989928497346,1338,139,112,656
+64,Nashik Hospital 4,Maharashtra,Nashik,Government,District Hospital,11.22530607722456,80.21321869907828,1642,152,101,523
+65,Nashik Hospital 5,Maharashtra,Nashik,Private,Medical College,28.83946870244489,87.77601702116593,1545,229,163,480
+66,Nashik Hospital 6,Maharashtra,Nashik,Private,District Hospital,23.511856014526515,75.97958647088461,1255,106,86,432
+67,Nashik Hospital 7,Maharashtra,Nashik,Private,District Hospital,24.301424940034703,84.27511764973715,138,12,8,44
+68,Nashik Hospital 8,Maharashtra,Nashik,Private,Medical College,16.24715274952149,76.57139338050978,994,114,93,372
+69,Nashik Hospital 9,Maharashtra,Nashik,Government,Clinic,20.23211085013686,77.16298221244134,923,94,68,406
+70,Nashik Hospital 10,Maharashtra,Nashik,Government,Specialty,29.324655783620177,80.36956550672238,179,18,16,39
+71,Nashik Hospital 11,Maharashtra,Nashik,Private,District Hospital,16.45244029034284,83.79361129348831,1356,97,66,676
+72,Nashik Hospital 12,Maharashtra,Nashik,Private,Clinic,15.38452142553319,74.71487846232905,1135,165,101,361
+73,Nashik Hospital 13,Maharashtra,Nashik,Government,Medical College,13.71889698279378,79.2518535492613,189,16,10,52
+74,Nashik Hospital 14,Maharashtra,Nashik,Government,Medical College,28.040398058864533,85.16059588677071,1324,107,90,536
+75,Nashik Hospital 15,Maharashtra,Nashik,Private,Clinic,27.28655269036744,80.82540596070513,1717,157,121,816
+76,Nashik Hospital 16,Maharashtra,Nashik,Private,Specialty,11.30917160427762,81.50609144563415,1128,59,42,499
+77,Nashik Hospital 17,Maharashtra,Nashik,Government,District Hospital,8.81008108799181,74.14163390081013,162,14,11,60
+78,Nashik Hospital 18,Maharashtra,Nashik,Government,Medical College,29.926010415625917,80.88690728964204,504,28,24,223
+79,Nashik Hospital 19,Maharashtra,Nashik,Private,Medical College,28.989122599691893,81.69879415121409,813,109,73,272
+80,Nashik Hospital 20,Maharashtra,Nashik,Government,Clinic,8.488064324666636,79.97064298633428,1569,216,178,335
+81,New Delhi Hospital 1,Delhi,New Delhi,Private,Clinic,20.340635373778497,86.02645764253352,537,68,51,244
+82,New Delhi Hospital 2,Delhi,New Delhi,Government,Medical College,22.06594985343333,84.8807146803098,1948,212,157,635
+83,New Delhi Hospital 3,Delhi,New Delhi,Private,District Hospital,16.62936899219411,78.99959875237967,2250,143,86,686
+84,New Delhi Hospital 4,Delhi,New Delhi,Government,Clinic,14.55510793392291,80.37763641624018,546,66,50,183
+85,New Delhi Hospital 5,Delhi,New Delhi,Private,Medical College,13.681376542577084,79.34617209981218,2228,322,207,1064
+86,New Delhi Hospital 6,Delhi,New Delhi,Government,Specialty,19.819795167709543,79.36190654373715,2200,186,123,822
+87,New Delhi Hospital 7,Delhi,New Delhi,Private,Clinic,17.05654671586562,85.98908167767067,2242,201,162,569
+88,New Delhi Hospital 8,Delhi,New Delhi,Government,Medical College,11.71657138758762,76.45744542451133,766,89,58,197
+89,New Delhi Hospital 9,Delhi,New Delhi,Private,District Hospital,10.832464762592167,77.2815922129625,1528,160,121,468
+90,New Delhi Hospital 10,Delhi,New Delhi,Government,Specialty,16.300291235325595,72.04152039013834,2396,235,189,846
+91,New Delhi Hospital 11,Delhi,New Delhi,Government,Specialty,28.32891870036353,75.77786452987847,1380,80,62,684
+92,New Delhi Hospital 12,Delhi,New Delhi,Private,Specialty,13.553612775568457,83.41359337415284,127,11,8,53
+93,New Delhi Hospital 13,Delhi,New Delhi,Private,District Hospital,15.79122675744876,78.35462132006532,1746,234,193,365
+94,New Delhi Hospital 14,Delhi,New Delhi,Government,Medical College,12.651856153923983,77.23995763484663,1315,101,72,270
+95,New Delhi Hospital 15,Delhi,New Delhi,Government,Medical College,18.96572837643926,73.39072460939877,636,88,68,256
+96,New Delhi Hospital 16,Delhi,New Delhi,Private,Specialty,16.332997770928365,77.39914934195069,210,25,19,78
+97,New Delhi Hospital 17,Delhi,New Delhi,Private,Medical College,28.54122012271724,72.12054981014519,1405,155,104,491
+98,New Delhi Hospital 18,Delhi,New Delhi,Government,District Hospital,14.272093711264636,74.77397752471607,2424,158,106,601
+99,New Delhi Hospital 19,Delhi,New Delhi,Private,Clinic,10.464855847697152,78.36568958473187,1260,73,55,407
+100,New Delhi Hospital 20,Delhi,New Delhi,Private,Clinic,23.903714125679066,85.13378357045364,1855,262,157,913
+101,Kolkata Hospital 1,West Bengal,Kolkata,Private,Medical College,12.114962468265514,77.1788677824679,293,30,23,83
+102,Kolkata Hospital 2,West Bengal,Kolkata,Government,District Hospital,24.891149031742454,73.39664287343481,1910,133,109,685
+103,Kolkata Hospital 3,West Bengal,Kolkata,Government,District Hospital,15.405294120266252,74.15063483102358,2017,131,97,725
+104,Kolkata Hospital 4,West Bengal,Kolkata,Private,Medical College,11.054145015724448,72.04337439062928,2042,214,141,827
+105,Kolkata Hospital 5,West Bengal,Kolkata,Government,Medical College,26.716004120362005,83.93559240877948,2094,203,158,917
+106,Kolkata Hospital 6,West Bengal,Kolkata,Private,Specialty,9.462917882069105,83.85793038864094,2069,129,105,996
+107,Kolkata Hospital 7,West Bengal,Kolkata,Private,District Hospital,26.15291888724154,74.9824797886103,1955,250,212,831
+108,Kolkata Hospital 8,West Bengal,Kolkata,Government,District Hospital,25.965187668374696,79.0261585371235,177,18,12,81
+109,Kolkata Hospital 9,West Bengal,Kolkata,Government,Specialty,16.445606870210653,80.69684577782382,1988,248,186,536
+110,Kolkata Hospital 10,West Bengal,Kolkata,Government,Specialty,15.367923522455895,74.2283531626142,2251,253,160,1084
+111,Kolkata Hospital 11,West Bengal,Kolkata,Private,Medical College,11.336847354120525,76.98755308472877,1746,195,148,817
+112,Kolkata Hospital 12,West Bengal,Kolkata,Government,Specialty,24.601976420922565,73.64665649190633,1050,67,44,434
+113,Kolkata Hospital 13,West Bengal,Kolkata,Private,Specialty,25.54049804715018,74.39867883758038,2032,124,105,484
+114,Kolkata Hospital 14,West Bengal,Kolkata,Government,Specialty,20.441183641105425,83.45886519572724,2194,199,165,446
+115,Kolkata Hospital 15,West Bengal,Kolkata,Private,Clinic,17.319130973250623,76.60687386361161,2216,294,260,670
+116,Kolkata Hospital 16,West Bengal,Kolkata,Government,Medical College,8.39842404405849,85.95398254310642,462,30,23,162
+117,Kolkata Hospital 17,West Bengal,Kolkata,Government,District Hospital,24.967426707434235,77.99096591552676,455,64,53,94
+118,Kolkata Hospital 18,West Bengal,Kolkata,Private,Specialty,17.918466170890905,73.81180873345208,2028,187,153,974
+119,Kolkata Hospital 19,West Bengal,Kolkata,Private,Specialty,13.002703659296477,81.72631030070814,1745,119,101,522
+120,Kolkata Hospital 20,West Bengal,Kolkata,Government,Specialty,16.759711259000753,80.59832964700676,1432,119,100,288
+121,Howrah Hospital 1,West Bengal,Howrah,Government,Medical College,20.91550093100448,72.52554672389502,2222,316,233,764
+122,Howrah Hospital 2,West Bengal,Howrah,Private,Medical College,28.1266098234982,77.79830238586612,862,55,35,301
+123,Howrah Hospital 3,West Bengal,Howrah,Government,Specialty,29.46190894502064,79.3438238082722,162,12,7,42
+124,Howrah Hospital 4,West Bengal,Howrah,Government,Specialty,21.09847038104096,73.07322363821484,247,22,13,123
+125,Howrah Hospital 5,West Bengal,Howrah,Private,Medical College,21.74947171512315,78.0436151590427,2362,218,183,719
+126,Howrah Hospital 6,West Bengal,Howrah,Private,Clinic,18.58393486452689,79.95219118113998,2165,171,139,775
+127,Howrah Hospital 7,West Bengal,Howrah,Government,Specialty,16.212804958154564,76.33191477029686,1046,68,44,479
+128,Howrah Hospital 8,West Bengal,Howrah,Private,District Hospital,27.073862720253516,78.52775192583752,2001,205,172,987
+129,Howrah Hospital 9,West Bengal,Howrah,Government,Clinic,10.290388803660624,84.79865736597102,412,29,19,165
+130,Howrah Hospital 10,West Bengal,Howrah,Private,District Hospital,26.264837020473816,78.35493647389528,1387,83,55,577
+131,Howrah Hospital 11,West Bengal,Howrah,Private,Specialty,21.93129704804113,83.77447381113603,264,16,11,78
+132,Howrah Hospital 12,West Bengal,Howrah,Private,District Hospital,28.033728077886686,81.99618033669202,246,15,12,96
+133,Howrah Hospital 13,West Bengal,Howrah,Private,Medical College,15.594227187388062,84.38135237122144,845,111,78,177
+134,Howrah Hospital 14,West Bengal,Howrah,Private,Clinic,11.082489866861955,85.8954876143666,1004,93,64,486
+135,Howrah Hospital 15,West Bengal,Howrah,Government,Medical College,13.910901906468814,80.66614743457387,2206,307,257,722
+136,Howrah Hospital 16,West Bengal,Howrah,Private,Clinic,10.910076644757268,86.40915681978217,336,30,19,132
+137,Howrah Hospital 17,West Bengal,Howrah,Private,Medical College,14.029214855118532,80.86684804025269,904,46,40,212
+138,Howrah Hospital 18,West Bengal,Howrah,Government,Medical College,13.86296465415941,83.714953255345,1501,183,115,363
+139,Howrah Hospital 19,West Bengal,Howrah,Government,Medical College,17.212951547625607,78.13021645199196,709,78,62,179
+140,Howrah Hospital 20,West Bengal,Howrah,Government,Clinic,24.961690361780526,73.09199528566546,1699,145,128,433
+141,Jaipur Hospital 1,Rajasthan,Jaipur,Private,Specialty,28.884749535270846,78.34638996883287,1419,132,115,590
+142,Jaipur Hospital 2,Rajasthan,Jaipur,Government,Clinic,11.564305313614861,85.4644745649607,857,54,40,240
+143,Jaipur Hospital 3,Rajasthan,Jaipur,Government,Medical College,15.733883544952814,78.60469680970803,464,30,23,158
+144,Jaipur Hospital 4,Rajasthan,Jaipur,Government,District Hospital,25.587149337317545,83.11514353367083,160,19,13,43
+145,Jaipur Hospital 5,Rajasthan,Jaipur,Government,Medical College,11.01000988021715,87.20379766113284,201,21,14,45
+146,Jaipur Hospital 6,Rajasthan,Jaipur,Private,Specialty,25.744345252951895,82.54053386737148,1620,110,83,748
+147,Jaipur Hospital 7,Rajasthan,Jaipur,Government,District Hospital,9.13510774649162,82.71867943280063,809,119,103,318
+148,Jaipur Hospital 8,Rajasthan,Jaipur,Private,District Hospital,14.882806843122925,73.92836126058343,877,95,85,321
+149,Jaipur Hospital 9,Rajasthan,Jaipur,Government,District Hospital,24.391420058644847,72.8781218343436,236,16,10,77
+150,Jaipur Hospital 10,Rajasthan,Jaipur,Private,Specialty,20.33489826807731,79.69699014150538,501,51,40,197
+151,Jaipur Hospital 11,Rajasthan,Jaipur,Private,Specialty,14.936387432273428,80.6318606780054,230,27,18,96
+152,Jaipur Hospital 12,Rajasthan,Jaipur,Government,District Hospital,27.28663831297389,78.68009734444627,1472,170,139,524
+153,Jaipur Hospital 13,Rajasthan,Jaipur,Government,District Hospital,28.659489367283715,84.78053177237865,838,114,69,387
+154,Jaipur Hospital 14,Rajasthan,Jaipur,Government,Clinic,21.805120190804143,85.97883382698141,913,77,63,292
+155,Jaipur Hospital 15,Rajasthan,Jaipur,Private,Medical College,24.10997975806219,72.05354179268767,1362,122,76,409
+156,Jaipur Hospital 16,Rajasthan,Jaipur,Government,Medical College,14.099844205329019,86.56542563292055,1265,100,85,524
+157,Jaipur Hospital 17,Rajasthan,Jaipur,Private,Specialty,28.899146046904956,84.58152023064883,2098,194,138,847
+158,Jaipur Hospital 18,Rajasthan,Jaipur,Private,Specialty,27.88192727785595,87.82695855701374,1038,112,100,482
+159,Jaipur Hospital 19,Rajasthan,Jaipur,Government,Specialty,19.279147242363187,75.69071698748414,871,63,55,343
+160,Jaipur Hospital 20,Rajasthan,Jaipur,Private,District Hospital,25.61693311685725,82.07644676793845,325,28,17,158
+161,Jodhpur Hospital 1,Rajasthan,Jodhpur,Government,Specialty,16.717324415858492,84.13181561126547,826,114,100,411
+162,Jodhpur Hospital 2,Rajasthan,Jodhpur,Government,Clinic,24.453175290029026,72.5578425637412,2209,330,286,748
+163,Jodhpur Hospital 3,Rajasthan,Jodhpur,Government,Specialty,10.849328268221692,86.21996927790363,679,73,45,314
+164,Jodhpur Hospital 4,Rajasthan,Jodhpur,Government,Medical College,24.17467839951596,76.50225536924043,1020,137,83,304
+165,Jodhpur Hospital 5,Rajasthan,Jodhpur,Private,District Hospital,29.166683397025096,73.75150176087126,1074,54,43,230
+166,Jodhpur Hospital 6,Rajasthan,Jodhpur,Private,District Hospital,21.032971262509385,85.19489545480239,895,51,43,311
+167,Jodhpur Hospital 7,Rajasthan,Jodhpur,Government,District Hospital,19.467726867969127,85.89057286482475,1691,196,149,776
+168,Jodhpur Hospital 8,Rajasthan,Jodhpur,Government,Medical College,23.34437215672424,82.88225234816481,2239,302,259,923
+169,Jodhpur Hospital 9,Rajasthan,Jodhpur,Government,District Hospital,18.24034019293964,86.0651436836501,290,34,22,134
+170,Jodhpur Hospital 10,Rajasthan,Jodhpur,Government,District Hospital,25.99527453061937,85.31414684732387,525,33,23,222
+171,Jodhpur Hospital 11,Rajasthan,Jodhpur,Government,Medical College,20.31657487079425,73.85350170848412,2112,160,105,475
+172,Jodhpur Hospital 12,Rajasthan,Jodhpur,Government,District Hospital,8.405409812240784,78.91585254228019,799,40,33,190
+173,Jodhpur Hospital 13,Rajasthan,Jodhpur,Government,District Hospital,28.619026719201926,83.00617155681302,1093,92,72,524
+174,Jodhpur Hospital 14,Rajasthan,Jodhpur,Government,District Hospital,18.41862554557195,72.92672736894077,1365,197,128,588
+175,Jodhpur Hospital 15,Rajasthan,Jodhpur,Private,Specialty,10.861897282873903,84.13221113486436,2357,323,288,1156
+176,Jodhpur Hospital 16,Rajasthan,Jodhpur,Private,Specialty,13.555192493144409,72.01647167753013,1130,63,53,352
+177,Jodhpur Hospital 17,Rajasthan,Jodhpur,Government,Specialty,19.594530116660966,85.21473225279834,1553,150,132,358
+178,Jodhpur Hospital 18,Rajasthan,Jodhpur,Private,Specialty,14.011709593960605,87.21381699600657,1198,86,53,484
+179,Jodhpur Hospital 19,Rajasthan,Jodhpur,Private,Specialty,14.032734451670741,87.74364236735725,1088,157,113,426
+180,Jodhpur Hospital 20,Rajasthan,Jodhpur,Private,Medical College,22.33667015826947,77.89642149958019,669,93,62,176
+181,Bengaluru Urban Hospital 1,Karnataka,Bengaluru Urban,Government,Medical College,10.005618788936218,74.4585286105778,1394,135,103,345
+182,Bengaluru Urban Hospital 2,Karnataka,Bengaluru Urban,Private,Clinic,8.715575948807542,86.733565565051,1150,154,127,446
+183,Bengaluru Urban Hospital 3,Karnataka,Bengaluru Urban,Private,Clinic,17.46672968778818,75.20839562720539,626,61,38,148
+184,Bengaluru Urban Hospital 4,Karnataka,Bengaluru Urban,Private,Clinic,17.531428477376423,87.74962251844646,1116,73,58,332
+185,Bengaluru Urban Hospital 5,Karnataka,Bengaluru Urban,Government,Specialty,23.88152781439257,82.51174172103188,171,16,12,54
+186,Bengaluru Urban Hospital 6,Karnataka,Bengaluru Urban,Private,Specialty,10.308463925199847,75.87272025380044,828,112,93,175
+187,Bengaluru Urban Hospital 7,Karnataka,Bengaluru Urban,Government,District Hospital,25.067704187445035,87.05980006771819,1795,93,69,472
+188,Bengaluru Urban Hospital 8,Karnataka,Bengaluru Urban,Government,Clinic,15.87162972042197,77.15351523550936,101,10,8,22
+189,Bengaluru Urban Hospital 9,Karnataka,Bengaluru Urban,Government,Clinic,10.300492487356806,82.18288399269818,189,22,18,49
+190,Bengaluru Urban Hospital 10,Karnataka,Bengaluru Urban,Government,Clinic,14.574389499420905,86.96322904479135,2086,291,226,803
+191,Bengaluru Urban Hospital 11,Karnataka,Bengaluru Urban,Government,Specialty,22.538042602583516,80.84802324147134,1813,204,170,695
+192,Bengaluru Urban Hospital 12,Karnataka,Bengaluru Urban,Private,District Hospital,9.795859604672971,72.96563334384902,121,11,8,43
+193,Bengaluru Urban Hospital 13,Karnataka,Bengaluru Urban,Government,Specialty,18.34401703932663,83.9084650495193,2234,256,190,859
+194,Bengaluru Urban Hospital 14,Karnataka,Bengaluru Urban,Private,Specialty,13.026004309288572,87.94134265690786,2456,284,212,900
+195,Bengaluru Urban Hospital 15,Karnataka,Bengaluru Urban,Government,District Hospital,8.674355048527733,76.12292621617942,1182,135,89,477
+196,Bengaluru Urban Hospital 16,Karnataka,Bengaluru Urban,Private,Clinic,21.832826000530794,83.76560477865205,1455,98,87,472
+197,Bengaluru Urban Hospital 17,Karnataka,Bengaluru Urban,Private,District Hospital,23.955668529133003,79.78670306279524,1055,56,48,394
+198,Bengaluru Urban Hospital 18,Karnataka,Bengaluru Urban,Government,District Hospital,28.0719936035672,75.37059502409066,2482,347,252,702
+199,Bengaluru Urban Hospital 19,Karnataka,Bengaluru Urban,Private,Clinic,27.998715454644103,74.87492974192386,629,71,58,150
+200,Bengaluru Urban Hospital 20,Karnataka,Bengaluru Urban,Private,Medical College,17.617638553970185,73.55829428085684,1039,90,67,336
+201,Mysuru Hospital 1,Karnataka,Mysuru,Private,Specialty,11.597525196870501,78.25730458642818,480,45,33,147
+202,Mysuru Hospital 2,Karnataka,Mysuru,Government,Clinic,21.171707562202364,78.34655642149698,2140,192,164,433
+203,Mysuru Hospital 3,Karnataka,Mysuru,Private,Medical College,15.414069881488299,85.26213385412176,2434,179,111,610
+204,Mysuru Hospital 4,Karnataka,Mysuru,Government,Clinic,15.903516454157401,78.06973743875878,1380,131,101,668
+205,Mysuru Hospital 5,Karnataka,Mysuru,Private,Clinic,17.820110223276885,85.8274588427867,2056,176,133,893
+206,Mysuru Hospital 6,Karnataka,Mysuru,Private,Medical College,19.685729616022705,86.98569107671938,2025,142,89,568
+207,Mysuru Hospital 7,Karnataka,Mysuru,Government,Medical College,20.862755409736952,83.01132585386553,2266,164,107,513
+208,Mysuru Hospital 8,Karnataka,Mysuru,Private,Medical College,22.060638631941007,85.88669271232035,375,55,48,75
+209,Mysuru Hospital 9,Karnataka,Mysuru,Private,Clinic,10.766313259746275,74.12343446110845,1346,101,76,407
+210,Mysuru Hospital 10,Karnataka,Mysuru,Private,Medical College,10.065815747367203,82.76163389160202,407,49,32,163
+211,Mysuru Hospital 11,Karnataka,Mysuru,Government,Specialty,28.78151282842851,82.93196845263434,1481,202,131,603
+212,Mysuru Hospital 12,Karnataka,Mysuru,Government,Clinic,10.488416019684607,84.72816594714246,2261,168,142,1038
+213,Mysuru Hospital 13,Karnataka,Mysuru,Government,Clinic,22.327125494912828,73.70548848492786,2087,245,162,829
+214,Mysuru Hospital 14,Karnataka,Mysuru,Government,Clinic,24.553410777542595,73.44770712459281,1109,122,84,510
+215,Mysuru Hospital 15,Karnataka,Mysuru,Private,District Hospital,17.63979162106373,86.4220103934151,588,35,27,252
+216,Mysuru Hospital 16,Karnataka,Mysuru,Private,District Hospital,22.279642493476647,77.2540996461613,1100,89,76,343
+217,Mysuru Hospital 17,Karnataka,Mysuru,Government,Medical College,20.005111546900416,79.11071124401923,810,86,61,295
+218,Mysuru Hospital 18,Karnataka,Mysuru,Private,District Hospital,18.19686896361259,78.07657248286768,2249,128,99,900
+219,Mysuru Hospital 19,Karnataka,Mysuru,Private,Medical College,16.364303613288854,78.3811644943504,2475,252,187,514
+220,Mysuru Hospital 20,Karnataka,Mysuru,Private,Clinic,29.021521311008563,72.29172132282179,1863,206,170,826
+221,Chennai Hospital 1,Tamil Nadu,Chennai,Government,Medical College,22.40324779148966,78.08119214299529,506,47,40,112
+222,Chennai Hospital 2,Tamil Nadu,Chennai,Government,Clinic,13.649084489851175,76.55796643139077,423,60,42,97
+223,Chennai Hospital 3,Tamil Nadu,Chennai,Private,District Hospital,23.75531483291026,76.36198401173654,1792,233,177,525
+224,Chennai Hospital 4,Tamil Nadu,Chennai,Private,Specialty,19.553594440675326,83.34474018755893,2237,139,90,904
+225,Chennai Hospital 5,Tamil Nadu,Chennai,Private,Clinic,9.91485717692849,85.0519782960685,2459,318,208,1168
+226,Chennai Hospital 6,Tamil Nadu,Chennai,Government,District Hospital,26.022154907389385,86.14730341357452,1295,70,55,628
+227,Chennai Hospital 7,Tamil Nadu,Chennai,Private,Clinic,24.938783405536938,80.90619292698747,620,71,46,191
+228,Chennai Hospital 8,Tamil Nadu,Chennai,Private,Specialty,22.68609778441235,73.5285650213547,958,122,83,428
+229,Chennai Hospital 9,Tamil Nadu,Chennai,Private,Medical College,12.768275601997065,73.53143288832258,1562,169,109,657
+230,Chennai Hospital 10,Tamil Nadu,Chennai,Government,Medical College,9.286001510388186,74.26839029643364,1087,76,60,301
+231,Chennai Hospital 11,Tamil Nadu,Chennai,Private,Medical College,23.787150844479875,83.07897842118992,1443,91,73,463
+232,Chennai Hospital 12,Tamil Nadu,Chennai,Private,District Hospital,27.921545431252824,84.36196363919012,1098,92,77,418
+233,Chennai Hospital 13,Tamil Nadu,Chennai,Private,Medical College,12.986440848993738,77.679940893311,135,7,6,34
+234,Chennai Hospital 14,Tamil Nadu,Chennai,Private,Specialty,22.083700924219656,76.33835898400295,807,76,64,323
+235,Chennai Hospital 15,Tamil Nadu,Chennai,Government,District Hospital,22.72871301436018,87.90622977953868,1835,211,160,545
+236,Chennai Hospital 16,Tamil Nadu,Chennai,Private,Clinic,9.952882670370906,87.38665177527702,1332,199,146,399
+237,Chennai Hospital 17,Tamil Nadu,Chennai,Private,Medical College,26.07974176582391,72.01978687615055,2434,305,198,785
+238,Chennai Hospital 18,Tamil Nadu,Chennai,Government,Specialty,16.78495014780478,74.43865621328668,1523,177,148,728
+239,Chennai Hospital 19,Tamil Nadu,Chennai,Private,Medical College,10.044441176346577,76.11275626291328,1640,202,167,447
+240,Chennai Hospital 20,Tamil Nadu,Chennai,Private,Clinic,23.592383350345482,72.5785660883962,555,69,44,248
+241,Madurai Hospital 1,Tamil Nadu,Madurai,Private,Specialty,13.259217308339842,80.15558794802718,580,42,29,182
+242,Madurai Hospital 2,Tamil Nadu,Madurai,Government,District Hospital,28.22662341071718,79.95141572649328,934,83,60,355
+243,Madurai Hospital 3,Tamil Nadu,Madurai,Government,District Hospital,19.87411761271874,82.04720084436218,441,47,33,154
+244,Madurai Hospital 4,Tamil Nadu,Madurai,Private,Medical College,15.095615512621134,72.36630119961792,1793,219,140,472
+245,Madurai Hospital 5,Tamil Nadu,Madurai,Private,Medical College,20.653593710925747,79.66967104220564,229,16,14,85
+246,Madurai Hospital 6,Tamil Nadu,Madurai,Private,District Hospital,11.846449799729076,80.04105722341508,1412,200,149,539
+247,Madurai Hospital 7,Tamil Nadu,Madurai,Government,District Hospital,19.13436620662852,75.72082173384608,2060,272,217,487
+248,Madurai Hospital 8,Tamil Nadu,Madurai,Government,District Hospital,27.274314237156936,76.44404197998819,2079,265,168,786
+249,Madurai Hospital 9,Tamil Nadu,Madurai,Government,Specialty,16.502138505501236,81.03105745086212,489,24,14,186
+250,Madurai Hospital 10,Tamil Nadu,Madurai,Government,Specialty,23.29077503488817,87.73886280421462,2053,197,121,1023
+251,Madurai Hospital 11,Tamil Nadu,Madurai,Private,Specialty,11.910860532727462,83.0658888891091,2230,149,92,969
+252,Madurai Hospital 12,Tamil Nadu,Madurai,Government,Clinic,14.737579657305456,81.98233338066622,708,71,63,314
+253,Madurai Hospital 13,Tamil Nadu,Madurai,Government,District Hospital,22.38966749818396,77.66777984711639,223,30,24,97
+254,Madurai Hospital 14,Tamil Nadu,Madurai,Private,Medical College,8.24268781743024,78.65846397087618,2302,210,178,967
+255,Madurai Hospital 15,Tamil Nadu,Madurai,Private,Specialty,21.61686024616987,77.17600631858357,2393,308,238,967
+256,Madurai Hospital 16,Tamil Nadu,Madurai,Government,Clinic,18.732788966379974,73.75577917884006,2109,156,139,928
+257,Madurai Hospital 17,Tamil Nadu,Madurai,Government,District Hospital,10.79839477912389,85.83456627424668,799,91,68,223
+258,Madurai Hospital 18,Tamil Nadu,Madurai,Private,Medical College,18.107828904931708,84.56026470139291,723,89,66,226
+259,Madurai Hospital 19,Tamil Nadu,Madurai,Private,Clinic,9.681170907637132,76.46988342295546,204,12,9,98
+260,Madurai Hospital 20,Tamil Nadu,Madurai,Government,Specialty,22.50578628852722,86.32188385130458,341,18,15,115
+261,Ahmedabad Hospital 1,Gujarat,Ahmedabad,Government,Specialty,10.32525655793803,87.8124043360021,2347,170,147,786
+262,Ahmedabad Hospital 2,Gujarat,Ahmedabad,Government,Medical College,9.585855391970814,73.14010764424414,2234,263,161,503
+263,Ahmedabad Hospital 3,Gujarat,Ahmedabad,Private,Specialty,29.356499068754744,87.07704623477109,1768,178,127,598
+264,Ahmedabad Hospital 4,Gujarat,Ahmedabad,Private,Clinic,13.831021423150089,72.3351193764946,662,44,27,263
+265,Ahmedabad Hospital 5,Gujarat,Ahmedabad,Private,Medical College,29.471798691173433,82.67760636874286,1091,110,95,474
+266,Ahmedabad Hospital 6,Gujarat,Ahmedabad,Government,Medical College,19.66664693148148,72.67121957490617,1062,65,50,459
+267,Ahmedabad Hospital 7,Gujarat,Ahmedabad,Private,District Hospital,18.69234106550588,86.72475489951053,469,38,24,160
+268,Ahmedabad Hospital 8,Gujarat,Ahmedabad,Government,Clinic,21.167694665056047,73.52018718387687,1411,157,101,300
+269,Ahmedabad Hospital 9,Gujarat,Ahmedabad,Private,Clinic,13.295239660315108,73.94402202081469,587,54,39,225
+270,Ahmedabad Hospital 10,Gujarat,Ahmedabad,Private,Specialty,27.34391051995244,76.13490592466908,785,40,35,315
+271,Ahmedabad Hospital 11,Gujarat,Ahmedabad,Private,District Hospital,25.081843822993942,82.49858940289714,2296,288,212,1039
+272,Ahmedabad Hospital 12,Gujarat,Ahmedabad,Private,Medical College,24.01483788807635,73.72709943434343,2350,192,158,659
+273,Ahmedabad Hospital 13,Gujarat,Ahmedabad,Government,Specialty,26.4954666162464,83.72482471626,312,38,32,82
+274,Ahmedabad Hospital 14,Gujarat,Ahmedabad,Government,Medical College,10.062652254202245,81.2347645326008,1824,226,177,422
+275,Ahmedabad Hospital 15,Gujarat,Ahmedabad,Private,Clinic,13.426935019475707,83.62338744180808,1404,177,114,475
+276,Ahmedabad Hospital 16,Gujarat,Ahmedabad,Private,Specialty,14.840436460166192,83.87756880916015,548,42,27,254
+277,Ahmedabad Hospital 17,Gujarat,Ahmedabad,Government,Medical College,20.192983310904367,72.0836738166866,2449,273,179,750
+278,Ahmedabad Hospital 18,Gujarat,Ahmedabad,Private,Medical College,16.09469652864586,77.23090586140927,413,22,18,107
+279,Ahmedabad Hospital 19,Gujarat,Ahmedabad,Private,Clinic,16.47826942704196,82.29384287858855,1878,252,186,658
+280,Ahmedabad Hospital 20,Gujarat,Ahmedabad,Government,District Hospital,23.30359922292975,72.05149221766845,2029,281,218,644
+281,Surat Hospital 1,Gujarat,Surat,Government,Specialty,27.233774353425233,80.1617553999812,2185,145,94,691
+282,Surat Hospital 2,Gujarat,Surat,Private,District Hospital,21.186117244584544,81.6343303048397,435,31,25,93
+283,Surat Hospital 3,Gujarat,Surat,Private,Medical College,24.41035459390084,87.71150704713833,159,13,10,38
+284,Surat Hospital 4,Gujarat,Surat,Private,District Hospital,15.220240579404855,78.944309858782,1240,159,120,411
+285,Surat Hospital 5,Gujarat,Surat,Government,Specialty,24.139548260930873,76.7910961678702,1269,110,68,558
+286,Surat Hospital 6,Gujarat,Surat,Government,Specialty,17.01790757331834,85.43683657016987,260,23,18,113
+287,Surat Hospital 7,Gujarat,Surat,Private,Medical College,29.552227730745436,74.6447057755228,174,21,18,45
+288,Surat Hospital 8,Gujarat,Surat,Government,Specialty,14.571962618953007,87.05086792184545,1742,91,77,491
+289,Surat Hospital 9,Gujarat,Surat,Private,Medical College,18.579932016567533,78.9628863880857,1549,209,139,484
+290,Surat Hospital 10,Gujarat,Surat,Government,Specialty,18.922145351816596,78.98961124184288,803,78,49,180
+291,Surat Hospital 11,Gujarat,Surat,Government,Specialty,28.297707277931373,79.55296694715197,1961,109,72,469
+292,Surat Hospital 12,Gujarat,Surat,Government,Specialty,27.937600771462808,75.9927391975921,1531,85,58,426
+293,Surat Hospital 13,Gujarat,Surat,Government,Clinic,8.739499204032217,73.00245125528568,2114,200,166,464
+294,Surat Hospital 14,Gujarat,Surat,Government,Specialty,9.901341436776022,75.78854894898217,2397,254,178,706
+295,Surat Hospital 15,Gujarat,Surat,Government,Medical College,9.149673344292523,78.70069310518659,771,89,79,283
+296,Surat Hospital 16,Gujarat,Surat,Government,Specialty,23.953426006124523,75.05905122343663,995,111,83,491
+297,Surat Hospital 17,Gujarat,Surat,Government,Medical College,10.510107267534535,74.41994925975895,2452,236,210,938
+298,Surat Hospital 18,Gujarat,Surat,Government,Clinic,10.524915181122784,85.76223509359096,994,74,63,366
+299,Surat Hospital 19,Gujarat,Surat,Private,District Hospital,18.08261411363044,79.75514059408076,2190,124,100,795
+300,Surat Hospital 20,Gujarat,Surat,Private,District Hospital,26.96371198489399,79.36259623181503,952,61,48,252
+301,Thiruvananthapuram Hospital 1,Kerala,Thiruvananthapuram,Private,Specialty,9.143044706193905,84.58045119014453,687,38,28,303
+302,Thiruvananthapuram Hospital 2,Kerala,Thiruvananthapuram,Private,District Hospital,24.59036896695561,72.28713085709587,1059,88,75,384
+303,Thiruvananthapuram Hospital 3,Kerala,Thiruvananthapuram,Government,Medical College,20.32400968424806,84.01167211198955,2360,273,177,652
+304,Thiruvananthapuram Hospital 4,Kerala,Thiruvananthapuram,Private,Clinic,19.85143955495971,79.96500012854864,980,51,31,332
+305,Thiruvananthapuram Hospital 5,Kerala,Thiruvananthapuram,Government,Specialty,17.703587481517243,75.12974836871224,873,76,55,278
+306,Thiruvananthapuram Hospital 6,Kerala,Thiruvananthapuram,Private,Medical College,21.960813186106684,84.76662655385431,2415,247,169,1057
+307,Thiruvananthapuram Hospital 7,Kerala,Thiruvananthapuram,Private,Clinic,20.27204422244243,74.65654901465913,658,45,39,234
+308,Thiruvananthapuram Hospital 8,Kerala,Thiruvananthapuram,Private,District Hospital,11.095653617072685,75.23225069443984,947,128,111,268
+309,Thiruvananthapuram Hospital 9,Kerala,Thiruvananthapuram,Private,District Hospital,29.290629296274556,85.7099829772015,712,87,73,209
+310,Thiruvananthapuram Hospital 10,Kerala,Thiruvananthapuram,Government,Specialty,10.693545763896703,83.60296876843825,1647,204,141,817
+311,Thiruvananthapuram Hospital 11,Kerala,Thiruvananthapuram,Private,Specialty,23.110941948850638,73.48848778336044,1383,207,185,548
+312,Thiruvananthapuram Hospital 12,Kerala,Thiruvananthapuram,Government,Specialty,12.12306277014681,85.73083285051462,2343,285,247,524
+313,Thiruvananthapuram Hospital 13,Kerala,Thiruvananthapuram,Government,Specialty,27.828512237042276,82.42668669930282,1495,212,134,639
+314,Thiruvananthapuram Hospital 14,Kerala,Thiruvananthapuram,Private,Medical College,10.484750585045818,73.3948714853093,1349,177,152,482
+315,Thiruvananthapuram Hospital 15,Kerala,Thiruvananthapuram,Government,District Hospital,24.474179413192743,82.41836135810678,1540,113,72,468
+316,Thiruvananthapuram Hospital 16,Kerala,Thiruvananthapuram,Government,Specialty,21.95112704250621,74.02023586503205,995,84,71,339
+317,Thiruvananthapuram Hospital 17,Kerala,Thiruvananthapuram,Government,Specialty,11.676904252366867,82.48451855506653,2419,146,101,486
+318,Thiruvananthapuram Hospital 18,Kerala,Thiruvananthapuram,Private,District Hospital,19.278404569191164,76.8849708271477,2148,287,196,843
+319,Thiruvananthapuram Hospital 19,Kerala,Thiruvananthapuram,Private,Clinic,27.166498609787144,84.25703642456484,632,33,22,250
+320,Thiruvananthapuram Hospital 20,Kerala,Thiruvananthapuram,Government,Specialty,20.32969388156968,73.7758315074157,1887,219,148,890
+321,Kochi Hospital 1,Kerala,Kochi,Private,Specialty,10.435853053178946,78.76077485299112,241,32,24,75
+322,Kochi Hospital 2,Kerala,Kochi,Private,Clinic,23.56914317927361,87.56442116627338,380,35,21,186
+323,Kochi Hospital 3,Kerala,Kochi,Private,Specialty,20.302065750245184,82.05180976741251,1549,185,157,766
+324,Kochi Hospital 4,Kerala,Kochi,Private,Medical College,19.895366486188028,73.54455152312705,732,57,49,171
+325,Kochi Hospital 5,Kerala,Kochi,Private,Specialty,9.633299205744501,75.62162390946378,385,21,16,109
+326,Kochi Hospital 6,Kerala,Kochi,Private,District Hospital,22.691703030980943,81.49154512171815,2481,308,189,1168
+327,Kochi Hospital 7,Kerala,Kochi,Government,Clinic,8.762745867982634,81.32490936133584,1755,120,74,477
+328,Kochi Hospital 8,Kerala,Kochi,Private,Medical College,21.177527179898632,73.83892795295307,593,80,60,129
+329,Kochi Hospital 9,Kerala,Kochi,Private,Clinic,29.02813864185655,72.40227133243636,2144,219,133,987
+330,Kochi Hospital 10,Kerala,Kochi,Government,Specialty,21.242315482332895,86.28037263927754,442,41,28,146
+331,Kochi Hospital 11,Kerala,Kochi,Government,Specialty,13.223536304245737,80.19782044073266,505,55,43,190
+332,Kochi Hospital 12,Kerala,Kochi,Private,Clinic,21.21432346406383,83.89750265882496,871,77,57,344
+333,Kochi Hospital 13,Kerala,Kochi,Private,Medical College,8.87485122974853,81.6651468331395,1892,145,104,884
+334,Kochi Hospital 14,Kerala,Kochi,Government,Medical College,18.604903278465816,75.13756340381428,382,24,16,187
+335,Kochi Hospital 15,Kerala,Kochi,Government,District Hospital,26.790991948311095,72.79194965589866,1414,133,98,533
+336,Kochi Hospital 16,Kerala,Kochi,Government,Medical College,20.58507015412462,80.20268361530266,1259,67,42,379
+337,Kochi Hospital 17,Kerala,Kochi,Government,Medical College,26.000546712461446,80.5055914336709,1486,80,54,661
+338,Kochi Hospital 18,Kerala,Kochi,Government,Specialty,10.892760637755597,76.39570440831231,282,38,28,115
+339,Kochi Hospital 19,Kerala,Kochi,Government,Medical College,13.679811592205724,82.79372564665945,100,8,6,46
+340,Kochi Hospital 20,Kerala,Kochi,Private,Medical College,22.000830144034957,72.81816610307361,2052,271,240,915
+341,Hyderabad Hospital 1,Telangana,Hyderabad,Private,District Hospital,25.607807338514945,82.60263220894969,826,44,37,228
+342,Hyderabad Hospital 2,Telangana,Hyderabad,Private,Specialty,15.804968420391653,87.06761138590281,1874,172,141,414
+343,Hyderabad Hospital 3,Telangana,Hyderabad,Government,District Hospital,19.04737941916371,74.22194122234427,1058,121,96,493
+344,Hyderabad Hospital 4,Telangana,Hyderabad,Government,District Hospital,26.238390116000804,87.86021162773812,1663,111,87,702
+345,Hyderabad Hospital 5,Telangana,Hyderabad,Government,Specialty,20.69839750816012,72.69982515694316,2405,123,89,693
+346,Hyderabad Hospital 6,Telangana,Hyderabad,Private,Medical College,9.482460205281495,78.19828137069855,1336,174,115,454
+347,Hyderabad Hospital 7,Telangana,Hyderabad,Government,District Hospital,25.357673518257453,79.14271226242532,1230,114,91,347
+348,Hyderabad Hospital 8,Telangana,Hyderabad,Government,Specialty,10.175219588093979,86.23443252828106,1989,175,128,743
+349,Hyderabad Hospital 9,Telangana,Hyderabad,Private,Specialty,19.256990504793258,74.65005355245225,2141,186,113,680
+350,Hyderabad Hospital 10,Telangana,Hyderabad,Private,Specialty,8.559850717926519,82.33315818058375,106,6,5,32
+351,Hyderabad Hospital 11,Telangana,Hyderabad,Government,Medical College,10.227718121533496,85.55423183510057,2111,106,75,923
+352,Hyderabad Hospital 12,Telangana,Hyderabad,Government,Specialty,23.142033187165215,74.24884748125378,1515,130,86,752
+353,Hyderabad Hospital 13,Telangana,Hyderabad,Private,Specialty,12.595009555526278,86.81019728040538,1499,221,167,360
+354,Hyderabad Hospital 14,Telangana,Hyderabad,Government,District Hospital,10.861051215245052,85.36768378211724,1357,121,83,331
+355,Hyderabad Hospital 15,Telangana,Hyderabad,Private,District Hospital,26.187561914312724,87.74421061136744,1672,243,168,780
+356,Hyderabad Hospital 16,Telangana,Hyderabad,Private,Clinic,25.017855613760407,87.68174387862027,176,19,12,36
+357,Hyderabad Hospital 17,Telangana,Hyderabad,Government,Specialty,15.836084236587071,85.22903958074271,2452,253,164,672
+358,Hyderabad Hospital 18,Telangana,Hyderabad,Private,Specialty,20.269594177500966,77.55643262448812,861,48,33,242
+359,Hyderabad Hospital 19,Telangana,Hyderabad,Private,Specialty,12.560798070126275,84.51821327136139,1727,187,168,423
+360,Hyderabad Hospital 20,Telangana,Hyderabad,Government,Medical College,11.255651242048366,85.64092451042485,2251,185,154,761
+361,Warangal Hospital 1,Telangana,Warangal,Private,Specialty,15.776136292029214,79.33546279310812,2311,325,207,873
+362,Warangal Hospital 2,Telangana,Warangal,Government,Clinic,14.066886501529853,86.03344929629102,2393,150,125,568
+363,Warangal Hospital 3,Telangana,Warangal,Private,Clinic,26.998045495319992,81.41970435410111,1705,110,81,842
+364,Warangal Hospital 4,Telangana,Warangal,Government,Specialty,19.248060168416526,79.87720768001891,1351,106,70,578
+365,Warangal Hospital 5,Telangana,Warangal,Government,Specialty,21.010948707294737,84.90542947722044,1814,252,185,604
+366,Warangal Hospital 6,Telangana,Warangal,Government,Medical College,26.633314792555332,86.28944328312664,262,18,11,119
+367,Warangal Hospital 7,Telangana,Warangal,Government,District Hospital,12.8564007459612,83.7444762014289,2294,186,125,479
+368,Warangal Hospital 8,Telangana,Warangal,Private,District Hospital,10.957572846978682,76.79032941394689,1237,120,96,515
+369,Warangal Hospital 9,Telangana,Warangal,Private,Medical College,25.45466831471765,87.84873652432213,2099,277,193,881
+370,Warangal Hospital 10,Telangana,Warangal,Government,Medical College,15.519212904208757,82.12650129085495,2411,360,225,483
+371,Warangal Hospital 11,Telangana,Warangal,Government,Specialty,27.457334061043497,83.20054836435366,1672,84,74,746
+372,Warangal Hospital 12,Telangana,Warangal,Private,Specialty,15.674051747328544,73.77596958066104,901,52,37,290
+373,Warangal Hospital 13,Telangana,Warangal,Government,Specialty,27.11677355014119,82.90797830544258,287,30,24,57
+374,Warangal Hospital 14,Telangana,Warangal,Private,District Hospital,9.603840378093878,78.44597252212219,1780,178,149,733
+375,Warangal Hospital 15,Telangana,Warangal,Government,District Hospital,11.35125096821978,76.2586882002486,2258,160,137,723
+376,Warangal Hospital 16,Telangana,Warangal,Government,Medical College,12.721817611693663,78.65794284913747,1688,226,172,448
+377,Warangal Hospital 17,Telangana,Warangal,Private,District Hospital,20.889025345977423,81.99654180463044,1404,87,75,492
+378,Warangal Hospital 18,Telangana,Warangal,Private,Clinic,14.670269308143013,76.63952190309774,1687,191,144,571
+379,Warangal Hospital 19,Telangana,Warangal,Private,Clinic,18.92729930199482,76.54838548684026,1153,117,75,498
+380,Warangal Hospital 20,Telangana,Warangal,Government,Specialty,10.260461553953313,75.02463239564051,949,125,102,267
+381,Lucknow Hospital 1,Uttar Pradesh,Lucknow,Government,Clinic,26.46544683183205,72.06111876253733,1984,108,73,817
+382,Lucknow Hospital 2,Uttar Pradesh,Lucknow,Government,Medical College,10.858458339785429,81.03974972280406,2472,356,222,1184
+383,Lucknow Hospital 3,Uttar Pradesh,Lucknow,Government,Specialty,28.018749164796624,78.03708886341109,1797,146,122,840
+384,Lucknow Hospital 4,Uttar Pradesh,Lucknow,Government,Medical College,28.46376123964534,85.50797923849309,2095,246,156,445
+385,Lucknow Hospital 5,Uttar Pradesh,Lucknow,Government,Medical College,14.12566698150956,74.07361041912708,1005,64,43,464
+386,Lucknow Hospital 6,Uttar Pradesh,Lucknow,Government,Clinic,29.988257460743874,73.67692903996115,530,76,51,181
+387,Lucknow Hospital 7,Uttar Pradesh,Lucknow,Government,Clinic,12.595419928113602,77.89931473383672,1625,236,177,535
+388,Lucknow Hospital 8,Uttar Pradesh,Lucknow,Government,Medical College,17.147545015123903,83.51446106576849,1359,68,58,347
+389,Lucknow Hospital 9,Uttar Pradesh,Lucknow,Government,Clinic,22.911890406820973,81.72403395604356,748,86,63,347
+390,Lucknow Hospital 10,Uttar Pradesh,Lucknow,Government,Clinic,29.441019849377252,72.83517806471954,261,23,20,62
+391,Lucknow Hospital 11,Uttar Pradesh,Lucknow,Private,Specialty,16.091291730635362,72.9294712332856,639,77,50,298
+392,Lucknow Hospital 12,Uttar Pradesh,Lucknow,Private,District Hospital,13.321555438191211,86.57709924427814,217,27,20,49
+393,Lucknow Hospital 13,Uttar Pradesh,Lucknow,Government,Specialty,15.265341145400917,86.49705417098184,2105,254,224,440
+394,Lucknow Hospital 14,Uttar Pradesh,Lucknow,Private,District Hospital,22.90592988409697,76.98982172667013,983,50,36,480
+395,Lucknow Hospital 15,Uttar Pradesh,Lucknow,Private,Specialty,16.416767118553977,77.88373841288175,2251,142,121,838
+396,Lucknow Hospital 16,Uttar Pradesh,Lucknow,Government,Specialty,19.39513160967674,77.56952949069262,1544,118,71,444
+397,Lucknow Hospital 17,Uttar Pradesh,Lucknow,Government,Clinic,26.63533819364579,72.37751943432846,2159,108,74,850
+398,Lucknow Hospital 18,Uttar Pradesh,Lucknow,Government,District Hospital,11.351211284578934,86.39128340073762,430,57,44,123
+399,Lucknow Hospital 19,Uttar Pradesh,Lucknow,Private,Specialty,22.776130194012655,81.3153401562917,588,84,65,201
+400,Lucknow Hospital 20,Uttar Pradesh,Lucknow,Private,Specialty,29.180903705570532,73.209680649868,1227,177,147,610
+401,Kanpur Hospital 1,Uttar Pradesh,Kanpur,Government,District Hospital,26.638277658738797,77.04235262612085,332,23,18,128
+402,Kanpur Hospital 2,Uttar Pradesh,Kanpur,Government,Clinic,22.142016125603835,84.95776299776938,2414,357,270,1139
+403,Kanpur Hospital 3,Uttar Pradesh,Kanpur,Private,District Hospital,23.182124281232554,86.88970887754459,315,38,28,68
+404,Kanpur Hospital 4,Uttar Pradesh,Kanpur,Private,Specialty,24.743942732525262,77.66828423745675,1943,141,86,630
+405,Kanpur Hospital 5,Uttar Pradesh,Kanpur,Private,District Hospital,18.112627148858547,80.74523427251671,1245,146,90,351
+406,Kanpur Hospital 6,Uttar Pradesh,Kanpur,Private,Clinic,27.748842798915046,82.7895836643755,2032,194,149,933
+407,Kanpur Hospital 7,Uttar Pradesh,Kanpur,Private,Medical College,12.332365497975424,87.22287696578931,2478,320,273,675
+408,Kanpur Hospital 8,Uttar Pradesh,Kanpur,Government,Medical College,28.2265229005988,74.81752754128951,1955,284,214,519
+409,Kanpur Hospital 9,Uttar Pradesh,Kanpur,Government,Medical College,27.973773463151627,87.09922548512353,969,108,96,249
+410,Kanpur Hospital 10,Uttar Pradesh,Kanpur,Private,Medical College,26.792881939499097,84.36942466715946,718,64,56,351
+411,Kanpur Hospital 11,Uttar Pradesh,Kanpur,Government,Clinic,20.43187687396064,84.34603057565772,2119,158,125,847
+412,Kanpur Hospital 12,Uttar Pradesh,Kanpur,Private,Clinic,20.14378664665586,84.87604995183511,185,20,17,80
+413,Kanpur Hospital 13,Uttar Pradesh,Kanpur,Private,Specialty,13.584063719447286,75.93291902889845,1851,242,158,656
+414,Kanpur Hospital 14,Uttar Pradesh,Kanpur,Government,District Hospital,16.752405761047452,86.7124963944968,448,43,34,105
+415,Kanpur Hospital 15,Uttar Pradesh,Kanpur,Government,Clinic,9.995877449168482,72.52188717346506,1622,161,121,558
+416,Kanpur Hospital 16,Uttar Pradesh,Kanpur,Private,Clinic,26.639976689880907,86.43578245539581,373,55,39,138
+417,Kanpur Hospital 17,Uttar Pradesh,Kanpur,Government,Medical College,8.856459193164683,72.57630109266282,253,35,22,89
+418,Kanpur Hospital 18,Uttar Pradesh,Kanpur,Private,Medical College,23.821517732780517,81.01319427252875,1524,98,78,407
+419,Kanpur Hospital 19,Uttar Pradesh,Kanpur,Private,Specialty,27.670074655731515,87.14330421040648,760,77,63,216
+420,Kanpur Hospital 20,Uttar Pradesh,Kanpur,Private,Specialty,19.979126919083015,75.27137417687538,651,58,48,290
